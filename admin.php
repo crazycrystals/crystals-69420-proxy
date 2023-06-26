@@ -1048,8 +1048,8 @@ if ( $input->gFetch && $user->isAdmin() ) {
 if ( ! $settingsLoaded ) {
 
 	# Show error and exit
-	$error->add('The settings file for Glype could not be found.
-					 Please upload this tool into your root glype directory.
+	$error->add('The settings file for Crystals 69420 Proxy could not be found.
+					 Please upload this tool into your root Crystals 69420 Proxy directory.
 					 If you wish to run this script from another location,
 					 edit the configuration options at the top of the file.
 					 <br><br>
@@ -1372,7 +1372,7 @@ OUT;
 
 		echo <<<OUT
 		<p>This script provides an easy to use interface for managing your Glype. Use the navigation above to get started.</p>
-		<h2>Latest Glype news...</h2>
+		<h2>Latest Crystals 69420 Proxy news...</h2>
 		<iframe scrolling="no" src="{$self}?fetch=news" style="width: 100%; height:150px; border: 1px solid #ccc;" onload="setTimeout('updateLatestVersion()',1000);"></iframe>
 		<br><br>
 
